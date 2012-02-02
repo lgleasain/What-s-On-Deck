@@ -6,8 +6,8 @@ tropo_agi {
   talks = [[2, 15,  30,  16, 00, 'Break'],
   [2, 16,  00,  16, 30, 'Get Super Powers with Mixins with Garren Smith'],
   [2, 16,  30,  17, 00, "Ruby's Hidden Gems with Andrew Timberlake"],
-  [2, 17,  00,  17, 30, 'Ruby and Amazon with Marc Bowes']],
-  [2, 17,  30,  11, 30, 'Brai']
+  [2, 17,  00,  17, 30, 'Ruby and Amazon with Marc Bowes'],
+  [2, 17,  30,  11, 30, 'Brai']]
   
   current_index = -1
 
