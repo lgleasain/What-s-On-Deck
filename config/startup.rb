@@ -14,7 +14,7 @@ Adhearsion::Configuration.configure do |config|
   # :outputters : An array of log outputters to use. The default is to log to stdout and log/adhearsion.log
   # :formatters : An array of log formatters to apply to the outputters in use
   # :formatter : A log formatter to apply to all active outputters
-  config.logging :level => :info
+  config.logging :level => :debug
 
   # Whether incoming calls be automatically answered. Defaults to true.
   # config.automatically_answer_incoming_calls = false
