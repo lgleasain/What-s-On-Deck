@@ -4,7 +4,7 @@ adhearsion {
 
 tropo_agi {
   talks = [[2, 23,  30,  23, 59, 'Break'],
-  [3, 24,  00,  24, 30, 'Get Super Powers with Mixins with Garren Smith'],
+  [2, 24,  00,  24, 30, 'Get Super Powers with Mixins with Garren Smith'],
   [2, 16,  30,  17, 00, "Ruby's Hidden Gems with Andrew Timberlake"],
   [2, 17,  00,  17, 30, 'Ruby and Amazon with Marc Bowes'],
   [2, 17,  30,  11, 30, 'Brai']]
