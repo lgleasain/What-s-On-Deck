@@ -1,0 +1,6 @@
+ INFO ahn: Adhearsion v1.2.4 initialized!
+ INFO agi: Adhearsion::VoIP::Asterisk::AGI::Server::RubyServer 0.0.0.0:4573 start
+ INFO ahn: Shutting down gracefully at 2012-02-02 17:56:06 -0500.
+ INFO ahn: Shutting down with 0 active calls
+ INFO agi: Adhearsion::VoIP::Asterisk::AGI::Server::RubyServer 0.0.0.0:4573 stop
+ INFO events: Performing a graceful stop of events subsystem

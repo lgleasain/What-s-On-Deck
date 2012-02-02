@@ -13,7 +13,7 @@ tropo_agi {
 
   talks.each_index do |index|
     talk = talks[index]
-    if Time.at(Time.now.utc + Time.zone_offset('SAST')).between? Time.utc(2012, 02, talk[0], talk[1], talk[2]),
+    if (Time.now + 2.hours).between? Time.utc(2012, 02, talk[0], talk[1], talk[2]),
       Time.utc(2012, 02, talk[0], talk[3], talk[4])
         current_index = index    
       break
