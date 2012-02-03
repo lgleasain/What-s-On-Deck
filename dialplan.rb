@@ -6,7 +6,7 @@ adhearsion {
 # day,  start hour,  start minute,  end hour,  end minute, description.
 # there are also not any tests in this which would be a no-no with production code.
 tropo_agi {
-  talks = [[3, 06,  30,  09, 29, 'nothing'],
+  talks = [[3, 6,  30,  9, 29, 'nothing'],
   [3, 9,  30,  10, 29, 'Smash your app into pieces with Josh Kalderimis'],
   [3, 10,  30,  10, 59, 'Taking the hype out of hypermedia with Ryan Lemmer'],
   [3, 11,  00,  11, 29, 'a Break'],
